@@ -78,19 +78,19 @@ Management Systems, Operating Systems
 
 
 <p align="center">
-<a href="https://github.com/AmardeepKesharwani/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmardeepKesharwani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<a href="https://github.com/SuricatoAviones/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuricatoAviones&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
  
-<a href="https://github.com/AmardeepKesharwani">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmardeepKesharwani&theme=blueberry" width="380"/>
+<a href="https://github.com/SuricatoAviones">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuricatoAviones&theme=blueberry" width="380"/>
 </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-    <a href="https://github.com/SuricatoAviones"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmardeepKesharwani&theme=tokyonight&hide_border=true"  width="520" alt="SuricatoAviones"/></a>
+    <a href="https://github.com/SuricatoAviones"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuricatoAviones&theme=tokyonight&hide_border=true"  width="520" alt="SuricatoAviones"/></a>
 <a href="https://github.com/SuricatoAviones"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuricatoAviones&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="SuricatoAviones"/></a>
 </p>
 
@@ -106,30 +106,4 @@ Management Systems, Operating Systems
 <img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"  style="margin-bottom: 5px;" />
 </a>   
 
- <!--
-  <a href="https://linkedin.com/in/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
-</a>   
--->      
-
-<!--
-**SuricatoAviones/SuricatoAviones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
