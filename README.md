@@ -6,9 +6,6 @@ I am Luis Angel Gutierrez, a passionate self-taught full stack web developer, wo
 I love solving problems.
 I have experience in backend as well as frontent development and also
 Love competitive programming.
-I am also confident with Data Structures and
-Algorithms, Object-Oriented Programming, Database
-Management Systems, Operating Systems
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
