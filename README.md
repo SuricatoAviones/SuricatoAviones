@@ -2,7 +2,7 @@
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-I am Luis Angel Gutierrez, a passionate self-taught full stack web developer, working in both backend and frontend programming. 
+I am Luis , a passionate self-taught full stack web developer, working in both backend and frontend programming. 
 I love solving problems.
 I have experience in backend as well as frontent development and also
 Love competitive programming.
